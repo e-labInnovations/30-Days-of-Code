@@ -5,3 +5,4 @@
 ## Table of Contents
 
 1. [Day 0: Hello, World.](./Day%200)
+2. [Day 1: Data Types](./Day%201/)
