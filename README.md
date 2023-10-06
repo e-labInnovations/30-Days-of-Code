@@ -6,3 +6,4 @@
 
 1. [Day 0: Hello, World.](./Day%200)
 2. [Day 1: Data Types](./Day%201/)
+3. [Day 2: Operators](./Day%202/)
