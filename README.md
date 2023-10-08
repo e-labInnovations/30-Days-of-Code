@@ -8,3 +8,5 @@
 2. [Day 1: Data Types](./Day%201/)
 3. [Day 2: Operators](./Day%202/)
 4. [Day 3: Intro to Conditional Statements](./Day%203/)
+5. Day 4: Class vs. Instance (Can't complete with c programming)
+   - [Node.js code](./Day%204/day_4.js)
