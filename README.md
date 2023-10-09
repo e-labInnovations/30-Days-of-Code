@@ -10,3 +10,4 @@
 4. [Day 3: Intro to Conditional Statements](./Day%203/)
 5. Day 4: Class vs. Instance (Can't complete with c programming)
    - [Node.js code](./Day%204/day_4.js)
+6. [Day 5: Loops](./Day%205/)
