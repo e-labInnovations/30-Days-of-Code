@@ -12,3 +12,4 @@
    - [Node.js code](./Day%204/day_4.js)
 6. [Day 5: Loops](./Day%205/)
 7. [Day 6: Let's Review](./Day%206/)
+8. [Day 7: Arrays](./Day%207/)
