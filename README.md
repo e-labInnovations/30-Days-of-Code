@@ -13,3 +13,5 @@
 6. [Day 5: Loops](./Day%205/)
 7. [Day 6: Let's Review](./Day%206/)
 8. [Day 7: Arrays](./Day%207/)
+9. [Day 8: Dictionaries and Maps](./Day%208/)
+   
