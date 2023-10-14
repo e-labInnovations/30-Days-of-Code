@@ -15,3 +15,4 @@
 - [Day 7: Arrays](./Day%207/)
 - [Day 8: Dictionaries and Maps](./Day%208/)
 - [Day 9: Recursion 3](./Day%209/)
+- [Day 10: Binary Numbers](./Day%2010/)
