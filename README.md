@@ -16,3 +16,4 @@
 - [Day 8: Dictionaries and Maps](./Day%208/)
 - [Day 9: Recursion 3](./Day%209/)
 - [Day 10: Binary Numbers](./Day%2010/)
+- [Day 11: 2D Arrays](./Day%2011/)
