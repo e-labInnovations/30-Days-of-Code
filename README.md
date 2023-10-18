@@ -21,3 +21,4 @@
     - [Node.js code](./Day%2012/day_12.js)
 - Day 13: Abstract Classes (Can't complete with c programming)
     - [Node.js code](./Day%2013/day_13.js)
+- Day 14: Scope Classes (Can't complete with c programming or Node.js)
