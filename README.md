@@ -25,3 +25,5 @@
 - [Day 15: Linked List](./Day%2015/)
 - Day 16: Exceptions - String to Integer (Can't complete with c programming)
     - [Node.js code](./Day%2016/day_16.js)
+- Day 17: More Exceptions (Can't complete with c programming)
+    - [Node.js code](./Day%2017/day_17.js)
