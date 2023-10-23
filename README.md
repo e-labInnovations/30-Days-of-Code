@@ -29,3 +29,4 @@
     - [Node.js code](./Day%2017/day_17.js)
 - Day 18: Queues and Stacks (Can't complete with c programming)
     - [Node.js code](./Day%2018/day_18.js)
+- Day 19: Interfaces (Can't complete with c programming or Node.js)
